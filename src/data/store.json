@@ -1,0 +1,10 @@
+{
+	"items":
+	[
+		{ "id": 1, "name": "Laptop", "price": 999, "description": "High performance laptop", "discount": 10, "discountCausedBy": "Black Friday" },
+		{ "id": 2, "name": "Phone", "price": 499, "description": "Latest model smartphone", "discount": null, "discountCausedBy": null },
+		{ "id": 3, "name": "Tablet", "price": 299, "description": "10-inch tablet with 64GB storage", "discount": null, "discountCausedBy": null },
+		{ "id": 4, "name": "Monitor", "price": 199, "description": "24-inch Full HD monitor", "discount": 50, "discountCausedBy": "Poor quality assembly of the monitor housing" },
+		{ "id": 5, "name": "Keyboard", "price": 99, "description": "Mechanical keyboard with RGB lighting", "discount": null, "discountCausedBy": null }
+	]
+}

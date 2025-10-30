@@ -1,0 +1,18 @@
+.item
+{
+	width: 400px;
+	height: 200px;
+
+	margin: 10px;
+	padding: auto 0;
+
+	text-align: center;
+
+	border: 1px solid black;
+}
+
+.discount
+{
+	color: red;
+	font-weight: bold;
+}

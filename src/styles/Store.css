@@ -1,0 +1,79 @@
+.filters-container
+{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	
+	margin: 20px;
+
+	font-family: Arial, Helvetica, sans-serif;	
+}
+
+.filters-container label
+{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.filters-container label input[type="checkbox"]
+{
+	margin-left: 10px;
+}
+
+.filters-container label input[type="number"]
+{
+	margin: 0 10px;
+	width: 80px;
+	appearance: textfield;
+}
+
+.filters-container button
+{
+	padding: 5px 15px;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+.items-container
+{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	
+	margin: 20px;
+
+	font-family: Arial, Helvetica, sans-serif;	
+}
+
+.action-buttons
+{
+	width: 45%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.action-buttons button
+{
+	width: 100px;
+	height: 40px;
+
+	padding: 10px 20px;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+.items_per_page-div
+{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.items_per_page-div select
+{
+	width: 60px;
+	margin-left: 10px;
+}
